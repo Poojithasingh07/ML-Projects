@@ -1,4 +1,4 @@
-Source: Public Loan Prediction dataset (you can use Kaggle’s “Loan Prediction )
+Source: Loan Prediction dataset (you can use Kaggle’s “Loan Prediction )
 
 Features:
 Gender
