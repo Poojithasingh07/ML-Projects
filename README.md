@@ -1,4 +1,4 @@
-Source: Public Loan Prediction dataset (you can use Kaggle’s “Loan Prediction Problem” dataset or UCI Repository)
+Source: Public Loan Prediction dataset (you can use Kaggle’s “Loan Prediction )
 
 Features:
 Gender
@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/loan-predictor-svm.git
 cd loan-predictor-svm
 Create a virtual environment and install dependencies:
 
-│
+
 ├── data/                   # Training and testing data
 ├── models/                 # Saved SVM model
 ├── app.py                  # Streamlit web app
